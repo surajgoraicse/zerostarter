@@ -1,3 +1,7 @@
+## v0.0.6
+
+[compare changes](https://github.com/nrjdalal/zerostarter/compare/e5ed86215f9d805e196e0df12cf329c6dfb52e5e...v0.0.6)
+
 ## v0.0.5
 
 [compare changes](https://github.com/nrjdalal/zerostarter/compare/746a234a5aafcda90c6f15af49bd2911b7683580...v0.0.5)
